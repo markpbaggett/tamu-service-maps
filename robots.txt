@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://markpbaggett.github.io/tamu-service-maps
+
+# Sitemaps
+Sitemap: https://markpbaggett.github.io/tamu-service-maps/sitemap.xml

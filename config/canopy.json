@@ -14,7 +14,7 @@
   "theme": {
     "defaultTheme": "light",
     "accentColor": "red",
-    "grayColor": "mauve",
+    "grayColor": "slate",
     "radius": "small",
     "scaling": "100%"
   }

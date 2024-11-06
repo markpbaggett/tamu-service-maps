@@ -4,7 +4,8 @@
   "featured": [
     "https://markpbaggett.github.io/static_iiif/manifests/service_maps_demo/service_maps_0074.json",
     "https://markpbaggett.github.io/static_iiif/manifests/service_maps_demo/service_maps_0003.json",
-    "https://markpbaggett.github.io/static_iiif/manifests/service_maps_demo/service_maps_0012.json"
+    "https://markpbaggett.github.io/static_iiif/manifests/service_maps_demo/service_maps_0012.json",
+    "https://markpbaggett.github.io/static_iiif/manifests/service_maps_demo/service_maps_0099.json"
   ],
   "metadata": ["Theater", "Size", "Location"],
   "label": { "none": ["World War II Service Maps"] },

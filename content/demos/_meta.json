@@ -10,5 +10,9 @@
   {
     "path": "/demos/iv_corps",
     "text": "IV Corps Operations in the PO Valley"
+  },
+  {
+    "path": "/demos/malformed-insignias",
+    "text": "Symbolic Alterations: Reimagined Insignias of Axis Divisions"
   }
 ]

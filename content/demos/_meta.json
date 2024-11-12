@@ -1,7 +1,7 @@
 [
   {
     "path": "/demos",
-    "text": "Demos"
+    "text": "Service Map Demos"
   },
   {
     "path": "/demos/1115th",
@@ -18,5 +18,9 @@
   {
     "path": "/demos/geospatial-overlay",
     "text": "Creating Geospatial Overlays"
+  },
+  {
+    "path": "/demos/549-aaa-battalion",
+    "text": "Following Movements of the 549 AAA Battalion"
   }
 ]

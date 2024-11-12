@@ -14,5 +14,9 @@
   {
     "path": "/demos/malformed-insignias",
     "text": "Symbolic Alterations: Reimagined Insignias of Axis Divisions"
+  },
+  {
+    "path": "/demos/geospatial-overlay",
+    "text": "Creating Geospatial Overlays"
   }
 ]

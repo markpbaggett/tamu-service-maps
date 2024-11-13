@@ -22,6 +22,7 @@ const AsideFixedContent = styled("div", {
 
 const AsideStyled = styled("aside", {
   width: "275px",
+  paddingRight: "$gr3",
 
   "@xs": {
     position: "relative",

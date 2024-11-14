@@ -3,7 +3,13 @@ import Viewer from "@src/components/Viewer/Viewer";
 
 const WorkViewer = (props: CloverViewerProps) => {
   return (
-    <Viewer options={{ canvasHeight: "50vh" }} {...props} />
+    <Viewer options={{
+      canvasHeight: "50vh",
+      informationPanel: {
+        renderAnnotation: false,
+        renderAbout: false
+      }
+    }} {...props} />
   );
 };
 
